@@ -16,7 +16,7 @@ Then visit http://127.0.0.1:8765. Stop with Control-C.
 
 ## Updates
 
-Edit `index.html` for content and `style.css` for layout. Commit and push changes to `main`; GitHub Pages publishes the repository root automatically. PDFs retain stable paths. The portrait crop is controlled by `.portrait` in the stylesheet.
+Edit `index.html` for content and `style.css` for layout. Commit and push changes to `main`; GitHub Pages publishes the repository root automatically. PDFs retain stable paths. The portrait asset `assets/matias-andia.jpg` is cropped to the displayed framing; the previous `assets/portrait.jpg` URL serves the same cropped image.
 
 IBM Plex Mono is included under the SIL Open Font License; see `assets/OFL.txt`. Papers, notes, posters, and photographs retain their respective authorship and rights.
 

@@ -16,7 +16,7 @@ section{padding:35px 0 39px;border-bottom:1px solid #fff}
 .intro{display:grid;grid-template-columns:minmax(0,1fr) 224px;gap:64px;padding-top:39px;padding-bottom:38px}
 .affiliation{font-size:12px;margin-top:11px;margin-bottom:21px}
 .portrait{width:224px;height:246px;overflow:hidden;position:relative;margin-top:3px}
-.portrait img{position:absolute;width:153%;max-width:none;height:auto;left:-28%;top:-20%}
+.portrait img{display:block;width:100%;height:100%;object-fit:cover}
 .links{display:flex;flex-wrap:wrap;gap:8px 21px;font-size:13px;margin-top:14px}
 .intro .links{margin-top:23px}
 .meta,.course,.venue,.related,.section-note{font-size:12px;line-height:1.8}
